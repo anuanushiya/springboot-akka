@@ -1,7 +1,7 @@
 package it.r;
 
 import akka.actor.ActorSystem;
-import it.r.akka.SpringExtensionId;
+import it.r.akka.spring.SpringExtensionId;
 import it.r.akka.spring.SpringActorSystem;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

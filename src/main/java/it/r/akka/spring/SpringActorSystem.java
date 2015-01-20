@@ -2,7 +2,6 @@ package it.r.akka.spring;
 
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
-import it.r.akka.SpringExtensionId;
 
 /**
  * Created by rascioni on 20/01/15.

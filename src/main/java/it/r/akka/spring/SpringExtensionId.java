@@ -1,4 +1,4 @@
-package it.r.akka;
+package it.r.akka.spring;
 
 import akka.actor.AbstractExtensionId;
 import akka.actor.ExtendedActorSystem;
